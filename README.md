@@ -34,8 +34,8 @@ and project management and blockchain technology.
 - Web3 chrome extension
 
 ### :fire: Github Status :
-![TowardsNewTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=towardsnewtech&show_icons=true&theme=radical)
+![TowardsNewTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=seniorPascal&show_icons=true&theme=radical)
 <br/>
- [![TowardsNewTech Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=towardsnewtech&layout=compact&theme=vision-friendly-dark)](https://github.com/topten1004/github-readme-stats)
+ [![TowardsNewTech Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniorPascal&layout=compact&theme=vision-friendly-dark)](https://github.com/topten1004/github-readme-stats)
 <br/>
-  [![TowardsNewTech's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=towardsnewtech&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![TowardsNewTech's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seniorPascal&theme=dark&background=000000)](https://git.io/streak-stats)
